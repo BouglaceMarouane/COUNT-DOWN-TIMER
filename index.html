@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COUNT DOWN TIMER</title>
+    <!-- Includes Bootstrap for styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS styles -->
+    <style>
+        body {
+            padding: 50px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 500px;
+            text-align: center;
+        }
+        .countdown {
+            font-size: 3rem;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Main container -->
+    <div class="container">
+        <h1 class="mb-4">COUNT DOWN TIMER</h1>
+        
+        <!-- Input field for hours -->
+        <div class="form-floating mb-3">
+            <input type="number" id="hours" class="form-control" placeholder="Heures" min="0">
+            <label for="floatingInput">Heures</label>
+        </div>
+        <!-- Input field for minutes -->
+        <div class="form-floating mb-3">
+            <input type="number" id="minutes" class="form-control" placeholder="Minutes" min="0">
+            <label for="floatingInput">Minutes</label>
+        </div>
+        <!-- Input field for seconds -->
+        <div class="form-floating mb-3">
+            <input type="number" id="seconds" class="form-control" placeholder="Secondes" min="0">
+            <label for="floatingInput">Secondes</label>
+        </div>
+        
+        <!-- Countdown display -->
+        <div class="countdown" id="timerDisplay">00:00:00</div>
+        
+        <!-- Buttons to control the countdown -->
+        <div>
+            <button class="btn btn-success col-12 m-2" id="startButton" onclick="startCountdown()">Start</button>
+            <button class="btn btn-warning col-4 m-2 d-none" id="pauseButton" onclick="pauseCountdown()">Pause</button>
+            <button class="btn btn-danger col-4 m-2 d-none" id="clearButton" onclick="clearCountdown()">Clear</button>
+        </div>
+    </div>
+
+    <!-- Includes the JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
