@@ -66,9 +66,3 @@ Si vous rencontrez des problèmes ou souhaitez demander une nouvelle fonctionnal
 ## ***⭐ Support:***
 
 Si vous aimez ce projet, n'oubliez pas de laisser une ⭐ sur GitHub. Merci et bon code ! 🚀
-
-```
-
-I hope you like this stylish version! Let me know if there's anything else you need. 🌟✨
-
-
