@@ -13,14 +13,23 @@ Ce projet est une application web simple de compte à rebours développée en HT
 
 ## ***📷 Screenshots:***
 
-![image alt](https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io.png)<br>
-*Start - Démarrer le compte à rebours.*
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io.png" alt="image alt" />
+  <br>
+  <em>Start - Démarrer le compte à rebours.</em>
+</p>
 
-![image alt](https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(1).png)<br>
-*Pause - Mettre en pause le compte à rebours.*
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(1).png" alt="image alt" />
+  <br>
+  <em>Pause - Mettre en pause le compte à rebours.</em>
+</p>
 
-![image alt](https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png)<br>
-*Resume/Clear - Reprendre ou réinitialiser le compte à rebours.*
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt" />
+  <br>
+  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+</p>
 
 ## ***🛠️ Technologies Utilisées:***
 
