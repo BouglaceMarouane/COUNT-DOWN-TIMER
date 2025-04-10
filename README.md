@@ -11,7 +11,7 @@ Ce projet est une application web simple de compte à rebours développée en HT
 - **🔄 Réinitialisation** : Réinitialise le compte à rebours et les champs de saisie.
 - **🖥️ Affichage dynamique** : Le temps restant est affiché en format HH:MM:SS.
 
-## ***📷 Screenshots:***
+## ***📷 Screenshots :***
 
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io.png" alt="image alt" />
@@ -31,11 +31,11 @@ Ce projet est une application web simple de compte à rebours développée en HT
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
 
-## ***🛠️ Technologies Utilisées:***
+## ***🛠️ Technologies Utilisées :***
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
 
-## ***⚙️ étapes d'installation:***
+## ***⚙️ étapes d'installation :***
 
 1. **📥 Clone the repository** to your machine or download the ZIP files:
    ```
@@ -57,7 +57,7 @@ Ce projet est une application web simple de compte à rebours développée en HT
    ```
    The project will be accessible at: [Countdown Timer](https://bouglacemarouane.github.io/COUNT-DOWN-TIMER/)
 
-## ***🤝 contribuer:***
+## ***🤝 contribuer :***
 
 Les contributions à ce projet sont les bienvenues! Si vous avez des suggestions, des améliorations ou des corrections de bogues, veuillez soumettre une pull request. Assurez-vous de respecter les conventions de codage et de maintenir des styles de codage uniformes.
 
