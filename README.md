@@ -1,9 +1,9 @@
 # 📱 **Countdown Timer Application** ⏰
 
-## ***✨ Description du projet :***
+## ***✨ Description du projet:***
 Ce projet est une application web simple de compte à rebours développée en HTML, CSS, et JavaScript. Elle permet aux utilisateurs de définir un temps en heures, minutes et secondes, puis de démarrer, mettre en pause, reprendre ou réinitialiser le compte à rebours.
 
-## ***🔧 Fonctionnalités principales :***
+## ***🔧 Fonctionnalités principales:***
 
 - **⏱️ Définir un temps** : Les utilisateurs peuvent entrer des heures, minutes et secondes via des champs de saisie.
 - **▶️ Démarrer le compte à rebours** : Le compte à rebours commence à décompter le temps défini.
