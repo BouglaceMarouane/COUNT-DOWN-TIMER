@@ -63,11 +63,11 @@ Les contributions à ce projet sont les bienvenues! Si vous avez des suggestions
 
 Si vous rencontrez des problèmes ou souhaitez demander une nouvelle fonctionnalité, veuillez ouvrir un problème dans le dépôt en fournissant autant de détails que possible.
 
-## ***⭐ Support:***
+## ***⭐ Support :***
 
 Si vous aimez ce projet, n'oubliez pas de laisser une ⭐ sur GitHub. Merci et bon code ! 🚀
 
-## ***📬 Restons en Contact:***
+## ***📬 Restons en Contact :***
 
 - 📧 Email: bouglacemarouane@gmail.com  
 - 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
