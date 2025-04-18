@@ -26,7 +26,7 @@ Ce projet est une application web simple de compte à rebours développée en HT
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt"/>
   <br>
   <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
 </p><br>
